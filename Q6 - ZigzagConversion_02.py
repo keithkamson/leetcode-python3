@@ -10,5 +10,5 @@ class Solution:
             if row == 0 or row == numRows-1:  
                 step = -step
         
-        words = ["".join(l) for l in matrix]     
+        words = ["".join(m) for m in matrix]     
         return "".join(words)  
