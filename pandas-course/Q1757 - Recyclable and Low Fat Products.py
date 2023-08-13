@@ -1,4 +1,5 @@
-import pandas as pd
+#Question:
+#Write a solution to find the ids of products that are both low fat and recyclable.
 
 #Input
 # Products table:
@@ -11,6 +12,10 @@ import pandas as pd
 # | 3           | Y        | Y          |
 # | 4           | N        | N          |
 # +-------------+----------+------------+
+
+
+
+import pandas as pd
 
 def find_products(products: pd.DataFrame) -> pd.DataFrame:
     lowfat_recyclable = products[(products.low_fats == 'Y') & (products.recyclable == 'Y')]
