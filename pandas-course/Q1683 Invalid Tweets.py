@@ -1,13 +1,14 @@
-# Employees table:
-# +-------------+---------+--------+
-# | employee_id | name    | salary |
-# +-------------+---------+--------+
-# | 2           | Meir    | 3000   |
-# | 3           | Michael | 3800   |
-# | 7           | Addilyn | 7400   |
-# | 8           | Juan    | 6100   |
-# | 9           | Kannon  | 7700   |
-# +-------------+---------+--------+
+#Question:
+#Write a solution to find the IDs of the invalid tweets. The tweet is invalid if the number of characters used in the content of the tweet is strictly greater than 15.
+
+# Input: 
+# Tweets table:
+# +----------+----------------------------------+
+# | tweet_id | content                          |
+# +----------+----------------------------------+
+# | 1        | Vote for Biden                   |
+# | 2        | Let us make America great again! |
+# +----------+----------------------------------+
 
 import pandas as pd
 
