@@ -1,3 +1,5 @@
+#1667. Fix Names in a Table
+
 #Question:
 # Write a solution to fix the names so that only the first character is uppercase and the rest are lowercase.
 

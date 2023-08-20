@@ -1,3 +1,5 @@
+#196. Delete Duplicate Emails
+
 #Question:
 #Write a solution to delete all duplicate emails, keeping only one unique email with the smallest id.
 # For Pandas users, please note that you are supposed to modify Person in place.
