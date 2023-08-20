@@ -1,3 +1,5 @@
+#1757. Recyclable and Low Fat Products
+
 #Question:
 #Write a solution to find the ids of products that are both low fat and recyclable.
 
@@ -12,7 +14,6 @@
 # | 3           | Y        | Y          |
 # | 4           | N        | N          |
 # +-------------+----------+------------+
-
 
 
 import pandas as pd

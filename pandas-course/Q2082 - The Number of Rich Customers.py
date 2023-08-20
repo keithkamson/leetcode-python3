@@ -1,3 +1,5 @@
+#2082. The Number of Rich Customers
+
 #Question:
 #Write a solution to report the number of customers who had at least one bill with an amount strictly greater than 500.
 
